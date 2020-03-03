@@ -1,0 +1,29 @@
+{
+  "name": "rectangle2",
+  "version": "1.0.0",
+  "description": "计算矩形的面积和周长",
+  "main": "Gruntfile.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/litiegen/rectangle2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/litiegen/rectangle2/issues"
+  },
+  "homepage": "https://github.com/litiegen/rectangle2#readme",
+  "devDependencies": {
+    "grunt": ">=0.4.5",
+    "grunt-eslint": "^21.0.0",
+    "grunt-htmlhint": "^0.9.13",
+    "grunt-contrib-csslint": "^2.0.0",
+    "grunt-mocha": "^0.4.12"
+  }
+}
